@@ -11,8 +11,3 @@ iSkin is an application created for anyone who wants to know the ingredients in 
 ![image](https://github.com/georgeKao6856/iSkin/blob/master/Photo/IngredientList.png)
 ![image](https://github.com/georgeKao6856/iSkin/blob/master/Photo/Grade1.png)
 ![image](https://github.com/georgeKao6856/iSkin/blob/master/Photo/Grade3.png)
-
-
-I want to test Conflict github.
-testConflict
-
